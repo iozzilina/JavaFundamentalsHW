@@ -1,5 +1,5 @@
 /**
- * a iozzilina creation how come this is not attamptiing to merge?
+ * a iozzilina creation 
  */
 public class p3AsignVariables {
     public static void main(String[] args) {
