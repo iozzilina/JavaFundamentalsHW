@@ -1,5 +1,5 @@
 /**
- * a iozzilina creation!
+ * a iozzilina creation
  */
 public class p3AsignVariables {
     public static void main(String[] args) {
