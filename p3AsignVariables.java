@@ -1,5 +1,6 @@
 /**
  * a iozzilina creation for testing of merge between branches
+ * and again after local edit.
  */
 public class p3AsignVariables {
     public static void main(String[] args) {
